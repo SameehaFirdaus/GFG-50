@@ -10,13 +10,13 @@ Tags:
 # 🚀 _Day 50. Count Subarrays with Given XOR_ 🧠
 
 
-The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/count-subarray-with-given-xor)
+The problem can be found at  following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/hashing-gfg-160/problem/count-subarray-with-given-xor)
 
 
 
 ## 💡 **Problem Description:**
 
-Given an array of integers `arr[]` and an integer `k`, count the number of subarrays whose XOR is equal to `k`.
+Given an array of integers `arr[]` and an integer `k`, count num of subarrays whose XOR = `k`.
 
 
 
